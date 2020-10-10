@@ -8,6 +8,9 @@ public class TestClass {
 	
         //I am Using git stash command
         System.out.println("git stash");
+        
+        //Once again
+        System.out.println("git stash apply 2");
 	}
 
 }
